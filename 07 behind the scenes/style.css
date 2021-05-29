@@ -1,0 +1,14 @@
+.header-1 {
+  max-width: 750px;
+  margin: auto;
+  text-align: center;
+  padding: 300px ;
+  font-size: 30px;
+  
+  
+}
+body {
+  background: rgb(235, 174, 139);
+  font-family: 'Courier New', Courier, monospace;
+  
+}
