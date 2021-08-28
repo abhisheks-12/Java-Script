@@ -16,6 +16,7 @@ const restaurant = {
 
 };
 
+// array1
 const arr = [1,5,9];
 const a = arr[0];
 const b = arr[1];
